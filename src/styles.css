@@ -1646,9 +1646,4 @@ footer {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
-.certificate-pending {
-  margin-top: 0.65rem;
-  color: var(--muted, #b4b4c2);
-  font-size: 0.82rem;
-  font-style: italic;
-}
+
