@@ -1637,7 +1637,7 @@ footer {
 }
 
 
-/* PhishTrace project status / pending certificate */
+/* Project status label */
 .project-status {
   display: inline-flex;
   align-items: center;
