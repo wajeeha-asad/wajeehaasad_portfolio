@@ -1487,12 +1487,12 @@ function App() {
                 </h3>
 
                 <p>
-                  Participated as team lead of Wu Wei Coders, working on PhishTrace, a team project focused on phishing investigation. Participation is recorded separately from awards; the event certificate will be added when received.
+                  Participated as team lead of Wu Wei Coders at the AI Innovation Hackathon 2026, working on PhishTrace, a team project focused on phishing investigation and evidence-led risk assessment. This entry records participation, not a competition award.
                 </p>
                 <div className="mini-tags">
                   <span>Team Lead</span><span>PhishTrace</span><span>Cybersecurity</span>
                 </div>
-                <p className="certificate-pending">Certificate pending — will be added when issued.</p>
+                <a className="certificate-link" href="https://drive.google.com/file/d/19noWwRogDVEvkZgvREnS7DR0NH_AGhOx/view?usp=drivesdk" target="_blank" rel="noreferrer">View participation certificate ↗</a>
               </div>
             </article>
 
