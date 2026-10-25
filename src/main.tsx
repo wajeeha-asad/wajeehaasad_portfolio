@@ -1472,6 +1472,30 @@ function App() {
               </span>
             </article>
 
+            <article>
+              <span className="cert-icon">
+                AI
+              </span>
+
+              <div>
+                <span className="timeline-meta">
+                  HACKATHON · 2026
+                </span>
+
+                <h3>
+                  AI Innovation Hackathon 2026
+                </h3>
+
+                <p>
+                  Participated as Team Lead of Wu Wei Coders. Our team developed PhishTrace, a project exploring phishing investigation and threat intelligence. Listed as hackathon participation, not an award.
+                </p>
+              </div>
+
+              <span className="verified">
+                ✓
+              </span>
+            </article>
+
           </div>
         </section>
 
