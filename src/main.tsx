@@ -1472,29 +1472,7 @@ function App() {
               </span>
             </article>
 
-            <article>
-              <span className="cert-icon">
-                PT
-              </span>
 
-              <div>
-                <span className="timeline-meta">
-                  HACKATHON PARTICIPATION · 20 OCT 2026
-                </span>
-
-                <h3>
-                  AI Innovation Hackathon 2026 — PhishTrace
-                </h3>
-
-                <p>
-                  Participated as team lead of Wu Wei Coders at the AI Innovation Hackathon 2026, working on PhishTrace, a team project focused on phishing investigation and evidence-led risk assessment. This entry records participation, not a competition award.
-                </p>
-                <div className="mini-tags">
-                  <span>Team Lead</span><span>PhishTrace</span><span>Cybersecurity</span>
-                </div>
-                <a className="certificate-link" href="https://drive.google.com/file/d/19noWwRogDVEvkZgvREnS7DR0NH_AGhOx/view?usp=drivesdk" target="_blank" rel="noreferrer">View participation certificate ↗</a>
-              </div>
-            </article>
 
           </div>
         </section>
