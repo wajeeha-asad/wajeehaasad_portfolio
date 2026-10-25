@@ -36,7 +36,7 @@ My current career direction is **AI Engineering**, with a practical focus on Pyt
 
 - **AI Engineering Intern — Paandaaa:** learning through structured training, team collaboration, and assigned engineering tasks.
 - **Client work — Flourish Well:** building a responsive website MVP around real requirements.
-- **Hackathons — PhishTrace, CivicAgent PK & BrainX AI:** team leadership for a phishing-investigation project at the AI Innovation Hackathon (20 October 2026), plus experience with a GenAI/RAG workflow and collaborative frontend/UI delivery. PhishTrace's repository, demo, and event certificate will be linked when available.
+- **Hackathons — PhishTrace, CivicAgent PK & BrainX AI:** team leadership for a phishing-investigation project at the AI Innovation Hackathon (20 October 2026), plus experience with a GenAI/RAG workflow and collaborative frontend/UI delivery. PhishTrace's repository and demo are still pending. The AI Innovation Hackathon 2026 participation certificate is linked in the live portfolio's Certifications & Recognition section.
 - **Learning:** Python, ML fundamentals, LLM applications, RAG, API development, and software engineering practices.
 
 ## Technology
