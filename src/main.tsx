@@ -1487,7 +1487,7 @@ function App() {
                 </h3>
 
                 <p>
-                  Participated as Team Lead of Wu Wei Coders. Our team developed PhishTrace, a project exploring phishing investigation and threat intelligence. Listed as hackathon participation, not an award.
+                  Participated as Team Lead of Wu Wei Coders, working on PhishTrace—a project focused on phishing investigation and threat intelligence. The hackathon was an opportunity to collaborate, explore cybersecurity challenges, and develop our project idea.
                 </p>
               </div>
 
