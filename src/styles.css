@@ -1637,6 +1637,22 @@ footer {
 }
 
 
+/* Certificate link in the certifications section */
+.certificate-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 0.8rem;
+  color: var(--red, #e5484d);
+  font-size: 0.78rem;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 3px;
+}
+.certificate-link:hover {
+  opacity: 0.8;
+}
+
 /* PhishTrace project status / pending certificate */
 .project-status {
   display: inline-flex;
