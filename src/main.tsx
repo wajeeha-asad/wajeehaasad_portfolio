@@ -1472,8 +1472,6 @@ function App() {
               </span>
             </article>
 
-
-
           </div>
         </section>
 
