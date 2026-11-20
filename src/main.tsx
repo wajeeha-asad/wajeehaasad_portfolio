@@ -159,19 +159,6 @@ const projects = [
     live: 'https://skill-gap-predictor.vercel.app',
   },
 
-  {
-    title: 'PhishTrace',
-    tag: 'CYBERSECURITY / HACKATHON',
-    desc: 'A team hackathon project exploring phishing investigation: examining suspicious URLs and messages, surfacing indicators of compromise, and organizing evidence to support a clearer risk assessment.',
-    tech: ['Python', 'Cybersecurity', 'Phishing Analysis', 'Streamlit'],
-    rating: 4,
-    match: 'TEAM BUILD',
-    episode: 'HACKATHON / 03',
-    tone: 'data',
-    image: '/assets/projects/phishtrace-project.svg',
-    github: '',
-    live: '',
-  },
 
   {
     title: 'CivicAgent PK',
@@ -1216,10 +1203,10 @@ function App() {
             <article className="timeline-card">
               <span className="timeline-dot" />
               <div className="timeline-meta">2026 — PRESENT</div>
-              <h3>AI Engineering Intern · Paandaaa</h3>
-              <p>Learning and contributing in a team environment through structured training and assigned engineering tasks, with an emphasis on fundamentals, collaboration, and maintainable code.</p>
+              <h3>Software Engineer Intern · Paandaaa</h3>
+              <p>Contributing to a Next.js and Firebase-based internal team platform, working across frontend and backend features, role-based access, employee and HR workflows, debugging, testing, and collaborative Git-based development.</p>
               <div className="mini-tags">
-                <span>Python</span><span>AI / ML</span><span>Git</span><span>Team workflow</span>
+                <span>Next.js</span><span>React</span><span>Firebase</span><span>Role-based access</span><span>Git / GitHub</span>
               </div>
             </article>
 
@@ -1487,7 +1474,7 @@ function App() {
                 </h3>
 
                 <p>
-                  Participated as Team Lead of Wu Wei Coders, working on PhishTrace—a project focused on phishing investigation and threat intelligence. The hackathon was an opportunity to collaborate, explore cybersecurity challenges, and develop our project idea.
+                  Participated as Team Lead of Wu Wei Coders in the AI Innovation Hackathon 2026, collaborating on a team-built solution and gaining experience in problem definition, technical exploration, and team-based development.
                 </p>
               </div>
 
