@@ -22,7 +22,6 @@ My current career direction is **AI Engineering**, with a practical focus on Pyt
 |---|---|---|---|
 | **NeuraTrack** | Full-stack learning and productivity platform | React, FastAPI, PostgreSQL, Supabase | [Demo](https://neuratrack-app.vercel.app/) · [Repo](https://github.com/wajeeha-asad/NeuraTrack) |
 | **Skill Gap Predictor** | Career skill-gap exploration and learning recommendations | Python, ML, web app | [Demo](https://skill-gap-predictor.vercel.app/) · [Repo](https://github.com/wajeeha-asad/skill-gap-predictor) |
-| **PhishTrace** | Team hackathon project exploring phishing investigation and evidence-led risk assessment | Team lead · Python, cybersecurity analysis, Streamlit-oriented workflow | Repository and demo pending |
 | **CivicAgent PK** | Urdu/English citizen-support prototype using policy retrieval and LLM responses | My contribution: LLM prompts and ChromaDB/RAG workflow | [Demo](https://civicagent-pk-2ulotjmrihrrvjc9tzqyqm.streamlit.app/) · [Repo](https://github.com/wajeeha-asad/CivicAgent-PK-wajeeha) |
 | **BrainX AI** | Team hackathon concept for explaining MRI-based predictions and organizing a patient-to-report workflow | My contribution: frontend and UI | [Project site](https://BrainXAI.zaheer.tech) · [Team repo](https://github.com/zaheer-ahmed77/BrainX-AI) |
 | **Flourish Well** | Responsive website MVP for a counseling and professional-development brand | Real-client website, currently in progress | [Preview](https://flourish-well-website.vercel.app/) · [Repo](https://github.com/wajeeha-asad/Flourish-Well-Website) |
@@ -30,13 +29,13 @@ My current career direction is **AI Engineering**, with a practical focus on Pyt
 | **Velora** | Fashion e-commerce concept with editorial product presentation | React, Vite, JavaScript, CSS | [Demo](https://velora-atelier-e-com.vercel.app/) · [Repo](https://github.com/wajeeha-asad/velora-digital-atelier) |
 | **Luxe & Latte** | Coffee-brand landing experience focused on visual storytelling | HTML, CSS, JavaScript | [Demo](https://wajeeha-asad.github.io/Luxe-Latte-Premium-Coffee-Experience/) · [Repo](https://github.com/wajeeha-asad/Luxe-Latte-Premium-Coffee-Experience) |
 
-> Hackathon and client projects are labeled as collaborative or in-progress work where applicable. PhishTrace is listed as a team hackathon project; its implementation status, repository, and demo are not claimed as complete here. BrainX AI is a prototype concept, not a clinically validated diagnostic product.
+> Hackathon and client projects are labeled as collaborative or in-progress work where applicable. BrainX AI is a prototype concept, not a clinically validated diagnostic product.
 
 ## Current chapter
 
-- **AI Engineering Intern — Paandaaa:** learning through structured training, team collaboration, and assigned engineering tasks.
+- **Software Engineer Intern — Paandaaa:** contributing to a Next.js and Firebase-based internal team platform, including frontend/backend features, role-based access, employee and HR workflows, debugging, testing, and Git-based collaboration.
 - **Client work — Flourish Well:** building a responsive website MVP around real requirements.
-- **Hackathons — PhishTrace, CivicAgent PK & BrainX AI:** team leadership for a phishing-investigation project at the AI Innovation Hackathon (20 October 2026), plus experience with a GenAI/RAG workflow and collaborative frontend/UI delivery. PhishTrace's repository and demo are still pending.
+- **Hackathons — CivicAgent PK & BrainX AI:** experience with a GenAI/RAG workflow and collaborative frontend/UI delivery, alongside team-based hackathon problem-solving.
 - **Learning:** Python, ML fundamentals, LLM applications, RAG, API development, and software engineering practices.
 
 ## Technology
